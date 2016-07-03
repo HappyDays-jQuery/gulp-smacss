@@ -1,0 +1,15 @@
+/*-------------------------------------------------
+SMACSS: BASE
+-------------------------------------------------*/
+body {
+    background: #22272a;
+    color: #ced9e0;
+    font-family: $font-OpenSans;
+}
+
+a {
+    color: $color-gray;
+}
+a:hover {
+    color: #ced9e0;
+}
